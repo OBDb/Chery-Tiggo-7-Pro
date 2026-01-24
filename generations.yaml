@@ -1,5 +1,23 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chery_Tiggo_7"
+
 generations:
-  - name: "First Generation"
+  - name: "Second Generation (2020-2021)"
     start_year: 2020
+    end_year: 2021
+    description: "The initial version of the second-generation Chery Tiggo 7/7 Pro, codenamed T1E and introduced in March 2020 in China and September 2020 in Russia. This version features the base interior and exterior design before the Tiggo 7 Plus update, with engine options including a 1.5L turbocharged engine (230T) paired with CVT transmission, and a 1.6L turbocharged engine (290T) with 7-speed DCT transmission. Front-wheel drive and all-wheel drive layouts are available in select markets. Known as Tiggo 7 Pro in export markets including Russia, Indonesia, Philippines, South Africa, and other regions."
+
+  - name: "Second Generation (2021 Plus) (2021-2022)"
+    start_year: 2021
+    end_year: 2022
+    description: "The Tiggo 7 Plus variant launched in China on 27 September 2021, with updated exterior design featuring a redesigned front fascia and slightly updated rear taillights. The interior includes an updated dashboard with Chery's Lion 4.0 operating system featuring Baidu CarLife and Apple CarPlay integration. This version introduces a mild hybrid (MHEV) powertrain option combining the 1.5L turbocharged engine with a 48-volt lithium-ion battery system. In select export markets, the Plus exterior design was adopted for the global-market Tiggo 7 Pro. The 1.6L turbocharged engine (290T) with 7-speed DCT remains available."
+
+  - name: "Second Generation (2023 Facelift) (2023-2024)"
+    start_year: 2023
+    end_year: 2024
+    description: "The 2023 model year facelift introduced in two versions: the China-exclusive Tiggo 7 Plus with a completely redesigned front end using headlights from the Tiggo 8 Plus, and the global Tiggo 7 Pro Max/Pro e+ version with the exterior design from the 2021 Plus models featuring a redesigned front bumper and updated grille. Both versions feature updated interior design and introduce a plug-in hybrid (PHEV) powertrain option combining the 1.5L turbocharged engine with a permanent-magnet synchronous motor and 3-speed DHT transmission. Export markets including Russia, Australia, Indonesia, Malaysia, South Africa, and Mexico receive this generation with various prefixes (Pro Max, Pro e+, CSH depending on market)."
+
+  - name: "Second Generation (2025 Facelift) (2025-present)"
+    start_year: 2025
     end_year: null
-    description: "The Chery Tiggo 7 Pro is a compact crossover SUV that represents a significant upgrade over the standard Tiggo 7, with more sophisticated styling, enhanced technology, and improved quality. The exterior design features a prominent hexagonal grille with a diamond-like pattern, sleek LED headlights, a floating roof design, and distinctive LED taillights connected by a light bar. Powertrain options vary by market but typically include a 1.5L turbocharged four-cylinder engine producing around 145-156 HP, paired with either a CVT or a seven-speed dual-clutch transmission, with front-wheel drive as standard in most regions. The interior represents a significant step up for the Chinese brand, featuring a modern design dominated by a 10.25-inch touchscreen infotainment system and a digital instrument cluster, with soft-touch materials and available leather upholstery elevating the premium feel. Technology features include wireless smartphone integration, voice control, and a comprehensive suite of driver assistance systems in higher trim levels. A facelifted version introduced around 2022 in some markets features even more premium styling with an updated grille design and enhanced technology features. The Tiggo 7 Pro plays an important role in Chery's global expansion strategy, serving as a value-oriented alternative to established brands in the competitive compact SUV segment while offering contemporary design and features that help change perceptions of Chinese automotive products in international markets."
+    description: "The second facelift revealed in April 2024 for the 2025 model year, borrowing the exterior design from the facelifted 2023 Plus models but featuring a newly-redesigned front bumper, grille and rear fascia. Sales commenced in China on 1 November 2024 as the Tiggo 7 Plus. Global export versions continued as Tiggo 7 Pro Max and CSH (Chery Super Hybrid) variants in various markets including Australia, Malaysia, South Africa, Spain (as Ebro S700), Russia, and others. Engine options remain consistent with previous generations, including the 1.5L and 1.6L turbocharged petrol engines, with the PHEV option providing 80-93 km electric-only range depending on market specification."
